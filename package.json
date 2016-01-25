@@ -1,0 +1,19 @@
+{
+  "name": "in_array",
+  "version": "1.0.0",
+  "description": "The Javascript version of \"in_array\" php function from the php.js project - http://phpjs.org/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunoti/in_array.git"
+  },
+  "author": "Bruno Oliveira <bruno.oliveirati1@gmail.com> (https://github.com/brunoti)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunoti/in_array/issues"
+  },
+  "homepage": "https://github.com/brunoti/in_array#readme"
+}

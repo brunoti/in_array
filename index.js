@@ -39,3 +39,4 @@ function in_array(needle, haystack, argStrict) {
     return false;
 }
 
+module.exports = in_array;
