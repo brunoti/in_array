@@ -11,6 +11,6 @@
     "node"
   ],
   "keywords": [
-      'in_array', 'in-array', 'array', 'find', 'phpjs', 'php', 'includes', 'contains', 'contain', 'include', 'polyfill', 'ponyfill'
+      "in_array", "in-array", "array", "find", "phpjs", "php", "includes", "contains", "contain", "include", "polyfill", "ponyfill"
   ],
 }
