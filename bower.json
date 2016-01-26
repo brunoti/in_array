@@ -1,0 +1,13 @@
+{
+  "name": "in_array",
+  "description": "The Javascript version of \"in_array\" php function from the php.js project - http://phpjs.org/",
+  "main": "in_array.js",
+  "authors": [
+    "Bruno Oliveira <bruno.oliveirati1@gmail.com> (https://github.com/brunoti)"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/brunoti/in_array",
+  "moduleType": [
+    "node"
+  ]
+}
