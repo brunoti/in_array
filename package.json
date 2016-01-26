@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/brunoti/in_array/issues"
   },
+  "keywords": [
+      'in_array', 'in-array', 'array', 'find', 'phpjs', 'php'
+  ],
   "homepage": "https://github.com/brunoti/in_array#readme"
 }

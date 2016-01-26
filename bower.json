@@ -9,5 +9,8 @@
   "homepage": "https://github.com/brunoti/in_array",
   "moduleType": [
     "node"
-  ]
+  ],
+  "keywords": [
+      'in_array', 'in-array', 'array', 'find', 'phpjs', 'php'
+  ],
 }
