@@ -1,6 +1,6 @@
 {
   "name": "in_array",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The Javascript version of \"in_array\" php function from the php.js project - http://phpjs.org/",
   "main": "in_array.js",
   "scripts": {
@@ -16,7 +16,18 @@
     "url": "https://github.com/brunoti/in_array/issues"
   },
   "keywords": [
-      "in_array", "in-array", "array", "find", "phpjs", "php", "includes", "contains", "contain", "include", "polyfill", "ponyfill"
+    "in_array",
+    "in-array",
+    "array",
+    "find",
+    "phpjs",
+    "php",
+    "includes",
+    "contains",
+    "contain",
+    "include",
+    "polyfill",
+    "ponyfill"
   ],
   "homepage": "https://github.com/brunoti/in_array#readme"
 }
