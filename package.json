@@ -4,7 +4,8 @@
   "description": "The Javascript version of \"in_array\" php function from the php.js project - http://phpjs.org/",
   "main": "in_array.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ava --verbose",
+    "watch:test": "ava --verbose --watch"
   },
   "repository": {
     "type": "git",
@@ -29,5 +30,20 @@
     "polyfill",
     "ponyfill"
   ],
-  "homepage": "https://github.com/brunoti/in_array#readme"
+  "homepage": "https://github.com/brunoti/in_array#readme",
+  "devDependencies": {
+    "ava": "^0.16.0"
+  },
+  "ava": {
+    "files": [
+      "tests/**/*.js"
+    ],
+    "source": [
+        "./*.js"
+    ],
+    "require": [
+      "babel-register"
+    ],
+    "babel": "inherit"
+  }
 }
