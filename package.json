@@ -1,6 +1,6 @@
 {
   "name": "in_array",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "The Javascript version of \"in_array\" php function from the php.js project - http://phpjs.org/",
   "main": "in_array.js",
   "scripts": {
