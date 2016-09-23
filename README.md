@@ -1,4 +1,7 @@
 # in_array
+[![Build Status](https://travis-ci.org/brunoti/in_array.svg?branch=master)](https://travis-ci.org/brunoti/in_array)
+[![Coverage Status](https://coveralls.io/repos/github/brunoti/in_array/badge.svg)](https://coveralls.io/github/brunoti/in_array)
+[![Made with vim](https://img.shields.io/badge/made_with-vim-brightgreen.svg?style=flat)](http://www.vim.org/)
 
 This is the Javascript implementation of the ```in_array``` php function. The function is originally made by the [php.js](http://phpjs.org) organization and its contributors.
 
