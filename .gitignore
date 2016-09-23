@@ -1,4 +1,6 @@
 # Created by https://www.gitignore.io/api/macos,node
+coverage
+.nyc_output
 
 ### macOS ###
 *.DS_Store

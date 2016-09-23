@@ -4,7 +4,7 @@
   "description": "The Javascript version of \"in_array\" php function from the php.js project - http://phpjs.org/",
   "main": "in_array.js",
   "scripts": {
-    "test": "ava --verbose",
+    "test": "nyc ava --verbose",
     "watch:test": "ava --verbose --watch"
   },
   "repository": {
@@ -32,14 +32,16 @@
   ],
   "homepage": "https://github.com/brunoti/in_array#readme",
   "devDependencies": {
-    "ava": "^0.16.0"
+    "ava": "^0.16.0",
+    "coveralls": "^2.11.14",
+    "nyc": "^8.3.0"
   },
   "ava": {
     "files": [
       "tests/**/*.js"
     ],
     "source": [
-        "./*.js"
+      "./*.js"
     ],
     "require": [
       "babel-register"
